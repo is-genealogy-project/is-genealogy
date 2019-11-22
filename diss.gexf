@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
-  <meta lastmodifieddate="2019-11-20">
+  <meta lastmodifieddate="2019-11-22">
     <creator>Gephi 0.9</creator>
     <description></description>
   </meta>
@@ -23968,20 +23968,6 @@
         <viz:size value="7.0"></viz:size>
         <viz:position x="-41.17372" y="23.897842"></viz:position>
         <viz:color r="70" g="221" b="0"></viz:color>
-      </node>
-      <node id="13660" label="Richard Eugene Klein Jr. - 2001">
-        <attvalues>
-          <attvalue for="dissertationid" value="16373"></attvalue>
-          <attvalue for="dissertationtitle" value="The Effects of Symmetric Information Sharing Practices in e-Business Client/Vendor Relationships"></attvalue>
-          <attvalue for="dissertationyear" value="2001"></attvalue>
-          <attvalue for="schoolid" value="10389"></attvalue>
-          <attvalue for="schoolname" value="Georgia State University"></attvalue>
-          <attvalue for="countryid" value="286"></attvalue>
-          <attvalue for="region" value="United States of America"></attvalue>
-        </attvalues>
-        <viz:size value="7.0"></viz:size>
-        <viz:position x="-52.45373" y="-345.23065"></viz:position>
-        <viz:color r="255" g="100" b="113"></viz:color>
       </node>
       <node id="13661" label="J. Kleinnijenhuis - 0">
         <attvalues>
@@ -55442,7 +55428,7 @@ Provide Support for a Healthy Lifestyle"></attvalue>
         <viz:position x="-568.57904" y="-484.31284"></viz:position>
         <viz:color r="70" g="221" b="0"></viz:color>
       </node>
-      <node id="18353" label="Richard Klein - 2002">
+      <node id="18353" label="Richard Eugene Klein Jr. - 2002">
         <attvalues>
           <attvalue for="dissertationid" value="16483"></attvalue>
           <attvalue for="dissertationtitle" value="The Effects of Symmetric Information Sharing Practices in e-Business Client/vendor Relationships"></attvalue>
@@ -59558,8 +59544,6 @@ Provide Support for a Healthy Lifestyle"></attvalue>
       <edge id="15231" source="18524" target="13656"></edge>
       <edge id="15232" source="16348" target="13658"></edge>
       <edge id="15233" source="18207" target="13658"></edge>
-      <edge id="15234" source="15697" target="13660"></edge>
-      <edge id="15235" source="18482" target="13660"></edge>
       <edge id="15236" source="13623" target="13663"></edge>
       <edge id="15237" source="18308" target="13671"></edge>
       <edge id="15238" source="18407" target="13671"></edge>
